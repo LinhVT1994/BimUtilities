@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command BIMUtilities</Text>
+    <Description>Some description for BIMUtilities</Description>
+    <Assembly>BIMUtilities.dll</Assembly>
+    <FullClassName>BIMUtilities.Command</FullClassName>
+    <ClientId>59501a41-b99c-4be4-a7ff-1466d2d3b6e3</ClientId>
+    <VendorId>takeuchi-const.co.jp</VendorId>
+    <VendorDescription>Developed by Vu Tuan Linh Takeuchi Contruction Inc, http://www.takeuchi-const.co.jp/ </VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application BIMUtilities</Name>
+    <Assembly>BIMUtilities.dll</Assembly>
+    <FullClassName>BIMUtilities.App</FullClassName>
+    <ClientId>aec025c8-a3c5-4a84-bd95-75db3bbfce9f</ClientId>
+    <VendorId>takeuchi-const.co.jp/</VendorId>
+    <VendorDescription>Developed by Vu Tuan Linh Takeuchi Contruction Inc, http://www.takeuchi-const.co.jp/ </VendorDescription>
+  </AddIn>
+</RevitAddIns>
